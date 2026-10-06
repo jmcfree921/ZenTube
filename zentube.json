@@ -1,9 +1,9 @@
 {
   "update": {
-    "latest_version": 4,
+    "latest_version": 5,
     "required": true,
-    "title": "Bản cập nhật Zentube 4.0",
+    "title": "Bản cập nhật Zentube 5.0",
     "message": "Đã có phiên bản mới, vui lòng cập nhật.",
-    "download_url": "https://github.com/jmcfree921/AuraMusic/blob/main/Zentube4.0.apk?raw=true"
+    "download_url": "https://github.com/jmcfree921/ZenTube/blob/main/Zentube4.0.apk?raw=true"
   }
 }
