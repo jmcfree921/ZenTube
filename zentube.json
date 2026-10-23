@@ -1,9 +1,9 @@
 {
   "update": {
-    "latest_version": 6,
+    "latest_version": 7,
     "required": true,
-    "title": "Bản cập nhật Zentube 6.0",
+    "title": "Bản cập nhật Zentube 7.0",
     "message": "Đã có phiên bản mới, vui lòng cập nhật .",
-    "download_url": "https://github.com/jmcfree921/ZenTube/blob/main/Zentube6.0.apk?raw=true"
+    "download_url": "https://github.com/jmcfree921/ZenTube/blob/main/Zentube7.0.apk?raw=true"
   }
 }
